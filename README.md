@@ -1,1 +1,1 @@
-# IosAppTest
+This Repo is for developing an AWS code pipeline between a github repo and an Ios app to use for development on a windows machine.
